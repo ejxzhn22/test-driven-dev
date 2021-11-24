@@ -1,0 +1,10 @@
+getClass() = class Dollar
+m getClass() = class Dollar
+getClass() = class Dollar
+m getClass() = class Dollar
+getClass() = class Franc
+m getClass() = class Franc
+getClass() = class Franc
+m getClass() = class Franc
+getClass() = class Franc
+m getClass() = class Dollar
