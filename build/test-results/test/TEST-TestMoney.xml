@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestMoney" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-24T23:34:21" hostname="SOOJIN" time="0.049">
+<testsuite name="TestMoney" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-11-27T10:32:18" hostname="SOOJIN" time="0.046">
   <properties/>
-  <testcase name="testEquality()" classname="TestMoney" time="0.049"/>
-  <system-out><![CDATA[getClass() = class Dollar
-m getClass() = class Dollar
-getClass() = class Dollar
-m getClass() = class Dollar
-getClass() = class Franc
-m getClass() = class Franc
-getClass() = class Franc
-m getClass() = class Franc
-getClass() = class Franc
-m getClass() = class Dollar
-]]></system-out>
+  <testcase name="testReduceSum()" classname="TestMoney" time="0.032"/>
+  <testcase name="testSimpleAddition()" classname="TestMoney" time="0.001"/>
+  <testcase name="testMultiplication()" classname="TestMoney" time="0.002"/>
+  <testcase name="testReduceMoney()" classname="TestMoney" time="0.001"/>
+  <testcase name="testFrancMultiplication()" classname="TestMoney" time="0.001"/>
+  <testcase name="testCurrency()" classname="TestMoney" time="0.001"/>
+  <testcase name="testEquality()" classname="TestMoney" time="0.002"/>
+  <testcase name="testPlusReturnsSum()" classname="TestMoney" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
