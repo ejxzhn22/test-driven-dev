@@ -1,12 +1,14 @@
-Expression.java
- Expression
-Money.java
- Money
+Pair.java
+ Pair
+Bank.java
+ Bank
 Dollar.java
  Dollar
 Franc.java
  Franc
 Sum.java
  Sum
-Bank.java
- Bank
+Expression.java
+ Expression
+Money.java
+ Money
